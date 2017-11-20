@@ -13,6 +13,9 @@ function preload(){
 
 	img3 = loadImage("facefrank.png");
 
+
+	
+
 }
 
 function frank(){
